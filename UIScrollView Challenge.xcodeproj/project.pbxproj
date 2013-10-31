@@ -21,6 +21,8 @@
 		6FC8BCA81822937D0091D5F5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6FC8BC8A1822937D0091D5F5 /* UIKit.framework */; };
 		6FC8BCB01822937D0091D5F5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6FC8BCAE1822937D0091D5F5 /* InfoPlist.strings */; };
 		6FC8BCB21822937D0091D5F5 /* UIScrollView_ChallengeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FC8BCB11822937D0091D5F5 /* UIScrollView_ChallengeTests.m */; };
+		6FC8BCBC182296860091D5F5 /* worldMap.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FC8BCBB182296860091D5F5 /* worldMap.jpg */; };
+		6FC8BCBE18229AB50091D5F5 /* bigWorldMap.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FC8BCBD18229AB50091D5F5 /* bigWorldMap.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,8 @@
 		6FC8BCAD1822937D0091D5F5 /* UIScrollView ChallengeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "UIScrollView ChallengeTests-Info.plist"; sourceTree = "<group>"; };
 		6FC8BCAF1822937D0091D5F5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6FC8BCB11822937D0091D5F5 /* UIScrollView_ChallengeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UIScrollView_ChallengeTests.m; sourceTree = "<group>"; };
+		6FC8BCBB182296860091D5F5 /* worldMap.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = worldMap.jpg; sourceTree = "<group>"; };
+		6FC8BCBD18229AB50091D5F5 /* bigWorldMap.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bigWorldMap.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +130,8 @@
 		6FC8BC8D1822937D0091D5F5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				6FC8BCBD18229AB50091D5F5 /* bigWorldMap.jpg */,
+				6FC8BCBB182296860091D5F5 /* worldMap.jpg */,
 				6FC8BC8E1822937D0091D5F5 /* UIScrollView Challenge-Info.plist */,
 				6FC8BC8F1822937D0091D5F5 /* InfoPlist.strings */,
 				6FC8BC921822937D0091D5F5 /* main.m */,
@@ -230,6 +236,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				6FC8BC9F1822937D0091D5F5 /* Images.xcassets in Resources */,
+				6FC8BCBC182296860091D5F5 /* worldMap.jpg in Resources */,
+				6FC8BCBE18229AB50091D5F5 /* bigWorldMap.jpg in Resources */,
 				6FC8BC911822937D0091D5F5 /* InfoPlist.strings in Resources */,
 				6FC8BC9A1822937D0091D5F5 /* Main.storyboard in Resources */,
 			);
